@@ -31,6 +31,8 @@ public class RATool
 		RATool red = new RATool();
 
 		red.start();
+		
+		System.out.println("finished.");
 
 	}
 
@@ -65,7 +67,7 @@ public class RATool
 			// press();
 			// System.out.println("press");
 
-			draw();
+//			draw();
 
 //			robot.delay(5000);
 
